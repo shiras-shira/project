@@ -39,7 +39,6 @@
         echo $_GET["name"];
         //request method grabs everything
         echo $_REQUEST["name"];
-        echo "Hello";
     ?>
 </body>
 </html>
